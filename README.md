@@ -9,4 +9,8 @@ It's available as a PDF dump and Visio source project.
 ![Portable Executable (PE) Format Poster](Portable-Executable-PE-Format-Poster-Photo-1.png?raw=true)
 
 Bartosz Wójcik
-https://www.pelock.com | http://www.secnews.pl
+
+* Visit my site at — https://www.pelock.com
+* Twitter — https://twitter.com/PELock
+* GitHub — https://github.com/PELock
+* SecNews — https://www.secnews.pl
